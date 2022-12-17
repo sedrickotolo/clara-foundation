@@ -1,6 +1,10 @@
 /********** Template CSS **********/
+.navbar-brand img{
+    margin-left: 0% !important;
+}
+
 :root {
-    --primary: #FF6F0F;
+    --primary: #ED1B24;
     --secondary: #FFF0E6;
     --light: #F8F8F9;
     --dark: #001D23;
@@ -45,6 +49,7 @@
     color: var(--primary);
     background: transparent;
 }
+
 
 .btn-square {
     width: 38px;
